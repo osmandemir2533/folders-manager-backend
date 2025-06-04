@@ -1,0 +1,6 @@
+@Folders_Auction_HostAddress = http://localhost:5253
+
+GET {{Folders_Auction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
