@@ -305,10 +305,10 @@ Aşağıda uygulamanın temel ekran görüntülerini ekleyebilirsiniz:
   > ![Kart Yapısı](https://github.com/user-attachments/assets/dce56264-257c-43d6-9341-dad18acc3a06)
 
 - **About (Hakkında) Sayfası**
-  > ![About](https://github.com/user-attachments/assets/dcd215f5-4ed1-4c53-b4df-13b01ba91130)
+  > ![About](https://i.imgur.com/EEwHN8G.png)
 
 - **İletişim (Contact) Sayfası**
-  > ![Contact](https://github.com/user-attachments/assets/384f2b23-28d5-46a1-a800-16b3fc76c8b0)
+  > ![Contact](https://i.imgur.com/Uy3vRri.png)
 
 ---
 
