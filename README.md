@@ -69,8 +69,9 @@ npm run dev
 
    ```json
    "ConnectionStrings": {
-     "DefaultConnection": "Server=localhost;Database=FoldersAuctionDB;Trusted_Connection=True;TrustServerCertificate=True;"
+    "DefaultConnection": "Server=your_server_address;Database=your_database_name;User Id=your_user_id;Password=your_secure_password;Encrypt=True;TrustServerCertificate=False;"
    }
+
    ```
 
    - SQL Server Management Studio'yu açın
