@@ -5,7 +5,7 @@ Kullanıcılar dosya yükleyebilir, indirebilir, kendi dosyalarını yönetebili
 Proje, hem frontend hem de backend tarafında güncel teknolojiler ve en iyi güvenlik uygulamaları ile geliştirilmiştir.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmandemir2533/folders-manager-frontend)
-
+ 
 ---
 
 ## 🚀 Projeyi Çalıştırmak İçin
